@@ -218,19 +218,26 @@ Thanks to all these amazing people for contributing to this project 💖
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/icarusiftctts">
+                    <img src="https://avatars.githubusercontent.com/u/174119232?v=4" width="100;" alt="icarusiftctts"/>
+                    <br />
+                    <sub><b>Praneel Dev</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/Shreyansh-Kushwaha">
                     <img src="https://avatars.githubusercontent.com/u/222649869?v=4" width="100;" alt="Shreyansh-Kushwaha"/>
                     <br />
                     <sub><b>Shreyansh Kushwaha</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
-                <a href="https://github.com/icarusiftctts">
-                    <img src="https://avatars.githubusercontent.com/u/174119232?v=4" width="100;" alt="icarusiftctts"/>
+                <a href="https://github.com/michalszkil">
+                    <img src="https://avatars.githubusercontent.com/u/49024368?v=4" width="100;" alt="michalszkil"/>
                     <br />
-                    <sub><b>Praneel Dev</b></sub>
+                    <sub><b>Michał Szkil</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -261,6 +268,8 @@ Thanks to all these amazing people for contributing to this project 💖
                     <sub><b>Asit Wasnik</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Ruturaj-007">
                     <img src="https://avatars.githubusercontent.com/u/157049145?v=4" width="100;" alt="Ruturaj-007"/>
@@ -268,8 +277,6 @@ Thanks to all these amazing people for contributing to this project 💖
                     <sub><b>Ruturaj Pawar</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Neevs1">
                     <img src="https://avatars.githubusercontent.com/u/78549886?v=4" width="100;" alt="Neevs1"/>
@@ -305,6 +312,8 @@ Thanks to all these amazing people for contributing to this project 💖
                     <sub><b>Amit</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/mukkss">
                     <img src="https://avatars.githubusercontent.com/u/149927808?v=4" width="100;" alt="mukkss"/>
@@ -312,8 +321,6 @@ Thanks to all these amazing people for contributing to this project 💖
                     <sub><b>Mukesh</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/kyangOrange">
                     <img src="https://avatars.githubusercontent.com/u/168249130?v=4" width="100;" alt="kyangOrange"/>
@@ -349,6 +356,8 @@ Thanks to all these amazing people for contributing to this project 💖
                     <sub><b>Swayam Mishra</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Shubham15986">
                     <img src="https://avatars.githubusercontent.com/u/168961429?v=4" width="100;" alt="Shubham15986"/>
@@ -356,8 +365,6 @@ Thanks to all these amazing people for contributing to this project 💖
                     <sub><b>Shubham15986</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/RJ1412">
                     <img src="https://avatars.githubusercontent.com/u/135814536?v=4" width="100;" alt="RJ1412"/>
@@ -377,13 +384,6 @@ Thanks to all these amazing people for contributing to this project 💖
                     <img src="https://avatars.githubusercontent.com/u/97288540?v=4" width="100;" alt="Nilakshhh"/>
                     <br />
                     <sub><b>Nilaksh Dureja</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/michalszkil">
-                    <img src="https://avatars.githubusercontent.com/u/49024368?v=4" width="100;" alt="michalszkil"/>
-                    <br />
-                    <sub><b>Michał Szkil</b></sub>
                 </a>
             </td>
             <td align="center">
